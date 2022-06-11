@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+   <img alt="banner koding" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/capfits%20logo.png">
+<!--https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/capfits%20logo.png
 
 **Here are some ideas to get you started:**
 
