@@ -17,6 +17,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Repositories
 
-# Tech Stack
+# Tools, Library, and Framework
+Machine Learning
+<br>
+Mobile Development
+<br>
+Cloud Computing
 
 # Application Overview
+<p>
+<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/login%20emu.png">
+<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/home%20emu.png">
+<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/camera%20emu.png">
+<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/pilih%20gambar%20emu.png">
+<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/result%20emu.png">
+<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/detail%20produk%20emu.png">
+<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/sewa%20sekarang%20emu.png">   
+<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/success%20emu.png">  
+</p>
