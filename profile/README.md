@@ -26,12 +26,10 @@ Cloud Computing
 
 # Application Overview
 <p>
-<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/login%20emu.png">
-<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/home%20emu.png">
-<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/camera%20emu.png">
-<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/pilih%20gambar%20emu.png">
-<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/result%20emu.png">
-<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/detail%20produk%20emu.png">
-<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/sewa%20sekarang%20emu.png">   
-<img alt="banner koding" width="200px" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/success%20emu.png">  
+<img alt="banner koding" width="200px" src="https://media.giphy.com/media/8hXwXbL9nneSaoy3AZ/giphy.gif">
+<img alt="banner koding" width="200px" src="https://media.giphy.com/media/kylgzxBJ914B4tjMXL/giphy.gif">
+<img alt="banner koding" width="200px" src="https://media.giphy.com/media/2GH6AUDgZjj9dRJwxK/giphy.gif"><br>
+<img alt="banner koding" width="200px" src="https://media.giphy.com/media/9Htxg7Zd49Ru5c1Eaj/giphy.gif">
+<img alt="banner koding" width="200px" src="https://media.giphy.com/media/PwfZrumrYuEWtKjlN3/giphy.gif">
+<img alt="banner koding" width="200px" src="https://media.giphy.com/media/7IvN6IZBPDCUId2f20/giphy.gif"> 
 </p>
