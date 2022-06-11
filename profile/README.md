@@ -1,5 +1,8 @@
-## Hi there 👋
-   <img alt="banner koding" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/capfits%20logo.png">
+<p align="center">
+<img alt="banner koding" align="center" src="https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/capfits%20logo.png">
+</p>
+
+   # Bangkit 2021 Capstone Team : CAP0166
 <!--https://github.com/Ayam-Goreng-Enak/.github/blob/main/profile/capfits%20logo.png
 
 **Here are some ideas to get you started:**
