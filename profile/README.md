@@ -3,7 +3,7 @@
 </p>
 
 # About
-**[Demo Video](https://drive.google.com/file/d/1ucqhN7NXnOv2E-HjTrIVXIPn5Zl0KJfv/view?usp=sharing)** - <a href="https://drive.google.com/drive/folders/1glUY1Bu7QF5K9WpJYO1yXLfko41r_NcN?usp=sharing"><strong>Download App</strong></a> - <a href="soon"><strong>Report Bug</strong></a><br>
+**[Demo Video](https://drive.google.com/file/d/1R7j31NCmgUA89ClTxGsjGQvvBei2lNwd/view?usp=sharing)** - <a href="https://drive.google.com/drive/folders/1glUY1Bu7QF5K9WpJYO1yXLfko41r_NcN?usp=sharing"><strong>Download App</strong></a> - <a href="soon"><strong>Report Bug</strong></a><br>
 Fashion Industries is one of the fastest growing industries in the world. And the advancement of technology has made communication much easier all around the globe. This often causes a shift in fashion trends that changes fastly from time to time. Many people often imitate the outfits used by their idols for certain moments. Usually these fashion ideas came from a platform such as TikTok, Instagram, Facebook, etc. But, because social media is really fast paced, sometimes the idea for the fashion will just be gone. Currently, to find an outfit that we want, we have to type in the name of the product, and if we’re lucky we might just find the right item or at least one that is close to what we’re looking for. But oftentimes, the outfit that gets recommended is not going to be the outfit that we wanted. And most of the time we don't even know the name of the product that we’re looking for. So the main idea for our app is to help find the perfect outfit by using image recognition and giving a recommendation based on the provided image of the outfit.
 
 # Team Member
