@@ -40,7 +40,7 @@ Cloud Computing
 </p>
 
 # Installation
-- Download the .apk of Capfits app from [this link](https://drive.google.com/file/d/1wB3_ZNDDJStlfH9ze2Of3fUCCbDJIOY3/view?usp=sharing)
+- Download the .apk of Capfits app from [this link](https://drive.google.com/drive/u/1/folders/1glUY1Bu7QF5K9WpJYO1yXLfko41r_NcN)
 - Install and run application
 - Login Using :
 * email     : win@gmail.com
