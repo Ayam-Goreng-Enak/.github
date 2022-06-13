@@ -3,8 +3,8 @@
 </p>
 
 # About
-**[Demo Video](https://drive.google.com/file/d/1ucqhN7NXnOv2E-HjTrIVXIPn5Zl0KJfv/view?usp=sharing)** - <a href="soon"><strong>Download App</strong></a> - <a href="soon"><strong>Report Bug</strong></a><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**[Demo Video](https://drive.google.com/file/d/1ucqhN7NXnOv2E-HjTrIVXIPn5Zl0KJfv/view?usp=sharing)** - <a href="https://drive.google.com/file/d/1wB3_ZNDDJStlfH9ze2Of3fUCCbDJIOY3/view?usp=sharing"><strong>Download App</strong></a> - <a href="soon"><strong>Report Bug</strong></a><br>
+Fashion Industries is one of the fastest growing industries in the world. And the advancement of technology has made communication much easier all around the globe. This often causes a shift in fashion trends that changes fastly from time to time. Many people often imitate the outfits used by their idols for certain moments. Usually these fashion ideas came from a platform such as TikTok, Instagram, Facebook, etc. But, because social media is really fast paced, sometimes the idea for the fashion will just be gone. Currently, to find an outfit that we want, we have to type in the name of the product, and if we’re lucky we might just find the right item or at least one that is close to what we’re looking for. But oftentimes, the outfit that gets recommended is not going to be the outfit that we wanted. And most of the time we don't even know the name of the product that we’re looking for. So the main idea for our app is to help find the perfect outfit by using image recognition and giving a recommendation based on the provided image of the outfit.
 
 # Team Member
 | Member                            | Student ID | Learning Path      |
@@ -16,11 +16,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Abdurrahman Harish Al Mauqy       | C2258F2255 | Cloud Computing    |
 
 # Repositories
+| Learning Path      | Repository Link                                              | 
+| ------------------ | ------------------------------------------------------------ |  
+| Machine Learning   | [Repository](https://github.com/capfits-id/capfits-mobile)   | 
+| Mobile Development | [Repository](https://github.com/capfits-id/capfits-mobile)   |                                 
+| Cloud Computing    | [Repository](https://github.com/capfits-id/localhostBackend) | 
 
 # Tools, Library, and Framework
 Machine Learning
 <br>
-Mobile Development
+Mobile Development: [Android Studio](https://developer.android.com/studio?hl=id&gclid=CjwKCAjwnZaVBhA6EiwAVVyv9JSS0SEEJd47FseFLnMhrv_HtIG1YPXjmly84xfm0ehY0eixI0hkJBoC5AYQAvD_BwE&gclsrc=aw.ds) - [Retrofit](https://square.github.io/retrofit/) - [CameraX](https://developer.android.com/training/camerax?hl=id) - [Glide](https://github.com/bumptech/glide)
 <br>
 Cloud Computing
 
@@ -33,3 +38,7 @@ Cloud Computing
 <img alt="banner koding" width="200px" src="https://media.giphy.com/media/PwfZrumrYuEWtKjlN3/giphy.gif">
 <img alt="banner koding" width="200px" src="https://media.giphy.com/media/7IvN6IZBPDCUId2f20/giphy.gif"> 
 </p>
+
+# Installation
+- Download the .apk of Capfits app from [this link](https://drive.google.com/file/d/1wB3_ZNDDJStlfH9ze2Of3fUCCbDJIOY3/view?usp=sharing)
+- Install and run application
